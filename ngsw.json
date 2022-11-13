@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1668309600386,
-  "index": "https://naomicama.github.io/angular-pwa/index.html",
+  "timestamp": 1668309713292,
+  "index": "/angular-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://naomicama.github.io/angular-pwa/favicon.ico",
-        "https://naomicama.github.io/angular-pwa/index.html",
-        "https://naomicama.github.io/angular-pwa/main.c9762027fd8d56f2.js",
-        "https://naomicama.github.io/angular-pwa/manifest.webmanifest",
-        "https://naomicama.github.io/angular-pwa/polyfills.450c9b2831176457.js",
-        "https://naomicama.github.io/angular-pwa/runtime.64a4c478f89723db.js",
-        "https://naomicama.github.io/angular-pwa/scripts.c5aa423c5954c884.js",
-        "https://naomicama.github.io/angular-pwa/styles.002970415a4db2bc.css"
+        "/angular-pwa/favicon.ico",
+        "/angular-pwa/index.html",
+        "/angular-pwa/main.c9762027fd8d56f2.js",
+        "/angular-pwa/manifest.webmanifest",
+        "/angular-pwa/polyfills.450c9b2831176457.js",
+        "/angular-pwa/runtime.64a4c478f89723db.js",
+        "/angular-pwa/scripts.c5aa423c5954c884.js",
+        "/angular-pwa/styles.002970415a4db2bc.css"
       ],
       "patterns": []
     },
@@ -30,40 +30,40 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://naomicama.github.io/angular-pwa/assets/icons/icon-128x128.png",
-        "https://naomicama.github.io/angular-pwa/assets/icons/icon-144x144.png",
-        "https://naomicama.github.io/angular-pwa/assets/icons/icon-152x152.png",
-        "https://naomicama.github.io/angular-pwa/assets/icons/icon-192x192.png",
-        "https://naomicama.github.io/angular-pwa/assets/icons/icon-384x384.png",
-        "https://naomicama.github.io/angular-pwa/assets/icons/icon-512x512.png",
-        "https://naomicama.github.io/angular-pwa/assets/icons/icon-72x72.png",
-        "https://naomicama.github.io/angular-pwa/assets/icons/icon-96x96.png",
-        "https://naomicama.github.io/angular-pwa/bootstrap-icons.0e790920cc9001fb.woff2",
-        "https://naomicama.github.io/angular-pwa/bootstrap-icons.352c649e62d930d5.woff"
+        "/angular-pwa/assets/icons/icon-128x128.png",
+        "/angular-pwa/assets/icons/icon-144x144.png",
+        "/angular-pwa/assets/icons/icon-152x152.png",
+        "/angular-pwa/assets/icons/icon-192x192.png",
+        "/angular-pwa/assets/icons/icon-384x384.png",
+        "/angular-pwa/assets/icons/icon-512x512.png",
+        "/angular-pwa/assets/icons/icon-72x72.png",
+        "/angular-pwa/assets/icons/icon-96x96.png",
+        "/angular-pwa/bootstrap-icons.0e790920cc9001fb.woff2",
+        "/angular-pwa/bootstrap-icons.352c649e62d930d5.woff"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://naomicama.github.io/angular-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://naomicama.github.io/angular-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://naomicama.github.io/angular-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://naomicama.github.io/angular-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://naomicama.github.io/angular-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://naomicama.github.io/angular-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://naomicama.github.io/angular-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://naomicama.github.io/angular-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://naomicama.github.io/angular-pwa/bootstrap-icons.0e790920cc9001fb.woff2": "d5272cc71c9737b0b8737cb74b37a8a02f5f5424",
-    "https://naomicama.github.io/angular-pwa/bootstrap-icons.352c649e62d930d5.woff": "04e057ca89a86b1d3203adf7f5c18ed3bdbe0105",
-    "https://naomicama.github.io/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://naomicama.github.io/angular-pwa/index.html": "569ea65d4cc6e3bf6397c2eec8f35d35cee5bebd",
-    "https://naomicama.github.io/angular-pwa/main.c9762027fd8d56f2.js": "cdbb6962ed855f427ad2a82e371cba27db3dc3a2",
-    "https://naomicama.github.io/angular-pwa/manifest.webmanifest": "8e8f09336d1a60b5b2a4e09b5a376e4c4d21b0ea",
-    "https://naomicama.github.io/angular-pwa/polyfills.450c9b2831176457.js": "7c3ac593c7c18e883209c040210bf630fe6531b9",
-    "https://naomicama.github.io/angular-pwa/runtime.64a4c478f89723db.js": "49fa9038357f3db0130e1219265c8b5582c37349",
-    "https://naomicama.github.io/angular-pwa/scripts.c5aa423c5954c884.js": "111ee7935538ec830170e77043227e3d984bad79",
-    "https://naomicama.github.io/angular-pwa/styles.002970415a4db2bc.css": "df433b6e81a85d4315332499718ff4d7b6e1cd34"
+    "/angular-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/angular-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/angular-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/angular-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/angular-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/angular-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/angular-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/angular-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/angular-pwa/bootstrap-icons.0e790920cc9001fb.woff2": "d5272cc71c9737b0b8737cb74b37a8a02f5f5424",
+    "/angular-pwa/bootstrap-icons.352c649e62d930d5.woff": "04e057ca89a86b1d3203adf7f5c18ed3bdbe0105",
+    "/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/angular-pwa/index.html": "d22dfece9eae572c3f655cf4098b0acaebb151a1",
+    "/angular-pwa/main.c9762027fd8d56f2.js": "cdbb6962ed855f427ad2a82e371cba27db3dc3a2",
+    "/angular-pwa/manifest.webmanifest": "8e8f09336d1a60b5b2a4e09b5a376e4c4d21b0ea",
+    "/angular-pwa/polyfills.450c9b2831176457.js": "7c3ac593c7c18e883209c040210bf630fe6531b9",
+    "/angular-pwa/runtime.64a4c478f89723db.js": "49fa9038357f3db0130e1219265c8b5582c37349",
+    "/angular-pwa/scripts.c5aa423c5954c884.js": "111ee7935538ec830170e77043227e3d984bad79",
+    "/angular-pwa/styles.002970415a4db2bc.css": "df433b6e81a85d4315332499718ff4d7b6e1cd34"
   },
   "navigationUrls": [
     {
